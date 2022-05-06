@@ -14,5 +14,7 @@ Modern and asynchronous distributed systems. The concept of time: Physical and l
 ## Bibliography
 
 • Distributed Systems - Concepts and Design, Fifth Edition, George Coulouris, Jean Dollimore, Tim Kindberg and Gordon Blair, Addison-Wesley, May 2011.
+
 • Distributed Algorithms, Nancy A. Lynch, Morgan Kaufmann, 1996.
+
 • Distributed Computing Fundamentals, Simulations and Advanced Topics, 2nd Edition, H. Attiya, J. Welch, Wiley, 2014.
