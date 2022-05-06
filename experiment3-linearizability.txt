@@ -1,0 +1,414 @@
+request_from_file requests.txt
+Initiating batch requesting: 17:20:12
+File saved successfully >>> Time is: 17:20:12
+Received reply: key=Hey Jude - value=501 >>> Time is: 17:20:12
+Received reply: key=Hey Jude - value=501 >>> Time is: 17:20:12
+Received reply: key=Hey Jude - value=501 >>> Time is: 17:20:12
+Received reply: key=What's Going On - value=None >>> Time is: 17:20:12
+File saved successfully >>> Time is: 17:20:12
+Received reply: key=What's Going On - value=None >>> Time is: 17:20:12
+Received reply: key=Hey Jude - value=502 >>> Time is: 17:20:12
+Received reply: key=Respect - value=None >>> Time is: 17:20:12
+File saved successfully >>> Time is: 17:20:12
+Received reply: key=Hey Jude - value=502 >>> Time is: 17:20:12
+Received reply: key=What's Going On - value=None >>> Time is: 17:20:12
+Received reply: key=Respect - value=503 >>> Time is: 17:20:12
+Received reply: key=What's Going On - value=None >>> Time is: 17:20:12
+Received reply: key=Hey Jude - value=502 >>> Time is: 17:20:13
+Received reply: key=Hey Jude - value=502 >>> Time is: 17:20:13
+File saved successfully >>> Time is: 17:20:13
+Received reply: key=What's Going On - value=None >>> Time is: 17:20:13
+Received reply: key=Respect - value=503 >>> Time is: 17:20:13
+Received reply: key=Hey Jude - value=505 >>> Time is: 17:20:13
+Received reply: key=Hey Jude - value=505 >>> Time is: 17:20:13
+File saved successfully >>> Time is: 17:20:13
+Received reply: key=Hey Jude - value=506 >>> Time is: 17:20:13
+Received reply: key=Hey Jude - value=506 >>> Time is: 17:20:13
+Received reply: key=Respect - value=503 >>> Time is: 17:20:13
+File saved successfully >>> Time is: 17:20:13
+Received reply: key=What's Going On - value=None >>> Time is: 17:20:13
+Received reply: key=Hey Jude - value=507 >>> Time is: 17:20:13
+Received reply: key=What's Going On - value=None >>> Time is: 17:20:13
+Received reply: key=Hey Jude - value=507 >>> Time is: 17:20:13
+File saved successfully >>> Time is: 17:20:13
+Received reply: key=What's Going On - value=508 >>> Time is: 17:20:13
+Received reply: key=Hey Jude - value=507 >>> Time is: 17:20:13
+Received reply: key=Hey Jude - value=507 >>> Time is: 17:20:13
+Received reply: key=What's Going On - value=508 >>> Time is: 17:20:13
+Received reply: key=What's Going On - value=508 >>> Time is: 17:20:13
+Received reply: key=Hey Jude - value=507 >>> Time is: 17:20:13
+Received reply: key=Hey Jude - value=507 >>> Time is: 17:20:13
+File saved successfully >>> Time is: 17:20:13
+Received reply: key=Respect - value=503 >>> Time is: 17:20:13
+Received reply: key=Hey Jude - value=507 >>> Time is: 17:20:13
+Received reply: key=Hey Jude - value=507 >>> Time is: 17:20:14
+Received reply: key=Hey Jude - value=507 >>> Time is: 17:20:14
+File saved successfully >>> Time is: 17:20:14
+Received reply: key=What's Going On - value=510 >>> Time is: 17:20:14
+Received reply: key=Respect - value=503 >>> Time is: 17:20:14
+File saved successfully >>> Time is: 17:20:14
+Received reply: key=Hey Jude - value=511 >>> Time is: 17:20:14
+Received reply: key=Respect - value=512 >>> Time is: 17:20:14
+Received reply: key=Hey Jude - value=511 >>> Time is: 17:20:14
+File saved successfully >>> Time is: 17:20:14
+Received reply: key=Respect - value=512 >>> Time is: 17:20:14
+Received reply: key=Respect - value=512 >>> Time is: 17:20:14
+Received reply: key=Hey Jude - value=513 >>> Time is: 17:20:14
+Received reply: key=Hey Jude - value=513 >>> Time is: 17:20:14
+Received reply: key=Hey Jude - value=513 >>> Time is: 17:20:14
+Received reply: key=Hey Jude - value=513 >>> Time is: 17:20:14
+Received reply: key=Respect - value=512 >>> Time is: 17:20:14
+Received reply: key=Respect - value=512 >>> Time is: 17:20:14
+File saved successfully >>> Time is: 17:20:14
+Received reply: key=Hey Jude - value=513 >>> Time is: 17:20:14
+Received reply: key=What's Going On - value=515 >>> Time is: 17:20:14
+Received reply: key=What's Going On - value=515 >>> Time is: 17:20:14
+Received reply: key=What's Going On - value=515 >>> Time is: 17:20:14
+File saved successfully >>> Time is: 17:20:14
+Received reply: key=Hey Jude - value=513 >>> Time is: 17:20:14
+Received reply: key=Respect - value=516 >>> Time is: 17:20:15
+Received reply: key=Respect - value=516 >>> Time is: 17:20:15
+Received reply: key=Hey Jude - value=513 >>> Time is: 17:20:15
+File saved successfully >>> Time is: 17:20:15
+Received reply: key=What's Going On - value=517 >>> Time is: 17:20:15
+Received reply: key=Hey Jude - value=513 >>> Time is: 17:20:15
+Received reply: key=Hey Jude - value=513 >>> Time is: 17:20:15
+File saved successfully >>> Time is: 17:20:15
+Received reply: key=Hey Jude - value=518 >>> Time is: 17:20:15
+Received reply: key=What's Going On - value=517 >>> Time is: 17:20:15
+Received reply: key=Hey Jude - value=518 >>> Time is: 17:20:15
+File saved successfully >>> Time is: 17:20:15
+Received reply: key=Hey Jude - value=519 >>> Time is: 17:20:15
+Received reply: key=Hey Jude - value=519 >>> Time is: 17:20:15
+Received reply: key=Hey Jude - value=519 >>> Time is: 17:20:15
+Received reply: key=Respect - value=516 >>> Time is: 17:20:15
+File saved successfully >>> Time is: 17:20:15
+Received reply: key=Hey Jude - value=519 >>> Time is: 17:20:15
+Received reply: key=Respect - value=516 >>> Time is: 17:20:15
+Received reply: key=Hey Jude - value=519 >>> Time is: 17:20:15
+File saved successfully >>> Time is: 17:20:15
+Received reply: key=Respect - value=522 >>> Time is: 17:20:15
+Received reply: key=What's Going On - value=521 >>> Time is: 17:20:16
+Received reply: key=Hey Jude - value=519 >>> Time is: 17:20:16
+Received reply: key=What's Going On - value=521 >>> Time is: 17:20:16
+File saved successfully >>> Time is: 17:20:16
+Received reply: key=Hey Jude - value=523 >>> Time is: 17:20:16
+Received reply: key=Hey Jude - value=523 >>> Time is: 17:20:16
+Received reply: key=Hey Jude - value=523 >>> Time is: 17:20:16
+File saved successfully >>> Time is: 17:20:16
+Received reply: key=Hey Jude - value=524 >>> Time is: 17:20:16
+Received reply: key=Hey Jude - value=524 >>> Time is: 17:20:16
+File saved successfully >>> Time is: 17:20:16
+Received reply: key=Hey Jude - value=525 >>> Time is: 17:20:16
+Received reply: key=Hey Jude - value=525 >>> Time is: 17:20:16
+Received reply: key=Hey Jude - value=525 >>> Time is: 17:20:16
+File saved successfully >>> Time is: 17:20:16
+Received reply: key=Respect - value=522 >>> Time is: 17:20:16
+Received reply: key=Hey Jude - value=526 >>> Time is: 17:20:16
+Received reply: key=Respect - value=522 >>> Time is: 17:20:16
+Received reply: key=Respect - value=522 >>> Time is: 17:20:16
+Received reply: key=Hey Jude - value=526 >>> Time is: 17:20:16
+Received reply: key=What's Going On - value=521 >>> Time is: 17:20:16
+File saved successfully >>> Time is: 17:20:16
+Received reply: key=What's Going On - value=521 >>> Time is: 17:20:16
+Received reply: key=Hey Jude - value=526 >>> Time is: 17:20:17
+Received reply: key=Hey Jude - value=526 >>> Time is: 17:20:17
+Received reply: key=What's Going On - value=521 >>> Time is: 17:20:17
+File saved successfully >>> Time is: 17:20:17
+Received reply: key=Respect - value=528 >>> Time is: 17:20:17
+Received reply: key=Hey Jude - value=526 >>> Time is: 17:20:17
+Received reply: key=What's Going On - value=529 >>> Time is: 17:20:17
+Received reply: key=Hey Jude - value=526 >>> Time is: 17:20:17
+File saved successfully >>> Time is: 17:20:17
+Received reply: key=Respect - value=528 >>> Time is: 17:20:17
+Received reply: key=Hey Jude - value=530 >>> Time is: 17:20:17
+Received reply: key=Respect - value=528 >>> Time is: 17:20:17
+Received reply: key=What's Going On - value=529 >>> Time is: 17:20:17
+File saved successfully >>> Time is: 17:20:17
+Received reply: key=What's Going On - value=531 >>> Time is: 17:20:17
+Received reply: key=Hey Jude - value=530 >>> Time is: 17:20:17
+Received reply: key=Respect - value=528 >>> Time is: 17:20:17
+Received reply: key=Hey Jude - value=530 >>> Time is: 17:20:17
+File saved successfully >>> Time is: 17:20:17
+Received reply: key=Hey Jude - value=532 >>> Time is: 17:20:17
+Received reply: key=Hey Jude - value=532 >>> Time is: 17:20:17
+Received reply: key=Respect - value=528 >>> Time is: 17:20:17
+Received reply: key=Hey Jude - value=532 >>> Time is: 17:20:17
+File saved successfully >>> Time is: 17:20:17
+Received reply: key=Hey Jude - value=532 >>> Time is: 17:20:17
+Received reply: key=Respect - value=528 >>> Time is: 17:20:17
+Received reply: key=Hey Jude - value=532 >>> Time is: 17:20:17
+File saved successfully >>> Time is: 17:20:18
+Received reply: key=Hey Jude - value=534 >>> Time is: 17:20:18
+Received reply: key=What's Going On - value=533 >>> Time is: 17:20:18
+Received reply: key=Hey Jude - value=534 >>> Time is: 17:20:18
+File saved successfully >>> Time is: 17:20:18
+Received reply: key=Hey Jude - value=535 >>> Time is: 17:20:18
+Received reply: key=What's Going On - value=533 >>> Time is: 17:20:18
+Received reply: key=Hey Jude - value=535 >>> Time is: 17:20:18
+Received reply: key=Hey Jude - value=535 >>> Time is: 17:20:18
+Received reply: key=What's Going On - value=533 >>> Time is: 17:20:18
+Received reply: key=Hey Jude - value=535 >>> Time is: 17:20:18
+Received reply: key=Hey Jude - value=535 >>> Time is: 17:20:18
+File saved successfully >>> Time is: 17:20:18
+Received reply: key=Hey Jude - value=535 >>> Time is: 17:20:18
+Received reply: key=Respect - value=528 >>> Time is: 17:20:18
+Received reply: key=Hey Jude - value=535 >>> Time is: 17:20:18
+File saved successfully >>> Time is: 17:20:18
+Received reply: key=Hey Jude - value=535 >>> Time is: 17:20:18
+Received reply: key=Hey Jude - value=535 >>> Time is: 17:20:18
+Received reply: key=Hey Jude - value=535 >>> Time is: 17:20:18
+Received reply: key=What's Going On - value=538 >>> Time is: 17:20:18
+File saved successfully >>> Time is: 17:20:18
+Received reply: key=What's Going On - value=538 >>> Time is: 17:20:18
+Received reply: key=Hey Jude - value=539 >>> Time is: 17:20:18
+Received reply: key=What's Going On - value=538 >>> Time is: 17:20:18
+File saved successfully >>> Time is: 17:20:18
+Received reply: key=Respect - value=528 >>> Time is: 17:20:18
+Received reply: key=Hey Jude - value=540 >>> Time is: 17:20:19
+Received reply: key=Respect - value=528 >>> Time is: 17:20:19
+File saved successfully >>> Time is: 17:20:19
+Received reply: key=Respect - value=541 >>> Time is: 17:20:19
+Received reply: key=What's Going On - value=538 >>> Time is: 17:20:19
+Received reply: key=Hey Jude - value=540 >>> Time is: 17:20:19
+File saved successfully >>> Time is: 17:20:19
+Received reply: key=What's Going On - value=538 >>> Time is: 17:20:19
+Received reply: key=Hey Jude - value=542 >>> Time is: 17:20:19
+Received reply: key=What's Going On - value=538 >>> Time is: 17:20:19
+File saved successfully >>> Time is: 17:20:19
+Received reply: key=Hey Jude - value=543 >>> Time is: 17:20:19
+Received reply: key=Respect - value=541 >>> Time is: 17:20:19
+Received reply: key=Hey Jude - value=543 >>> Time is: 17:20:19
+Received reply: key=Hey Jude - value=543 >>> Time is: 17:20:19
+File saved successfully >>> Time is: 17:20:19
+Received reply: key=Respect - value=541 >>> Time is: 17:20:19
+Received reply: key=What's Going On - value=538 >>> Time is: 17:20:19
+Received reply: key=Hey Jude - value=544 >>> Time is: 17:20:19
+Received reply: key=Respect - value=541 >>> Time is: 17:20:19
+Received reply: key=Respect - value=541 >>> Time is: 17:20:19
+Received reply: key=What's Going On - value=538 >>> Time is: 17:20:19
+Received reply: key=What's Going On - value=538 >>> Time is: 17:20:19
+File saved successfully >>> Time is: 17:20:19
+Received reply: key=Hey Jude - value=544 >>> Time is: 17:20:19
+Received reply: key=What's Going On - value=546 >>> Time is: 17:20:19
+Received reply: key=Hey Jude - value=544 >>> Time is: 17:20:19
+Received reply: key=Hey Jude - value=544 >>> Time is: 17:20:19
+Received reply: key=What's Going On - value=546 >>> Time is: 17:20:20
+Received reply: key=Hey Jude - value=544 >>> Time is: 17:20:20
+Received reply: key=Hey Jude - value=544 >>> Time is: 17:20:20
+Received reply: key=Hey Jude - value=544 >>> Time is: 17:20:20
+File saved successfully >>> Time is: 17:20:20
+Received reply: key=Hey Jude - value=544 >>> Time is: 17:20:20
+Received reply: key=Hey Jude - value=544 >>> Time is: 17:20:20
+File saved successfully >>> Time is: 17:20:20
+Received reply: key=Hey Jude - value=549 >>> Time is: 17:20:20
+Received reply: key=What's Going On - value=546 >>> Time is: 17:20:20
+Received reply: key=Respect - value=548 >>> Time is: 17:20:20
+Received reply: key=Respect - value=548 >>> Time is: 17:20:20
+File saved successfully >>> Time is: 17:20:20
+Received reply: key=Respect - value=550 >>> Time is: 17:20:20
+Received reply: key=Hey Jude - value=549 >>> Time is: 17:20:20
+Received reply: key=What's Going On - value=546 >>> Time is: 17:20:20
+Received reply: key=Hey Jude - value=549 >>> Time is: 17:20:20
+Received reply: key=What's Going On - value=546 >>> Time is: 17:20:20
+Received reply: key=What's Going On - value=546 >>> Time is: 17:20:20
+Received reply: key=Respect - value=550 >>> Time is: 17:20:20
+Received reply: key=Respect - value=550 >>> Time is: 17:20:20
+File saved successfully >>> Time is: 17:20:20
+Received reply: key=Hey Jude - value=552 >>> Time is: 17:20:20
+Received reply: key=Respect - value=550 >>> Time is: 17:20:20
+Received reply: key=What's Going On - value=546 >>> Time is: 17:20:20
+Received reply: key=Hey Jude - value=552 >>> Time is: 17:20:20
+File saved successfully >>> Time is: 17:20:21
+Received reply: key=Hey Jude - value=552 >>> Time is: 17:20:21
+Received reply: key=Respect - value=553 >>> Time is: 17:20:21
+Received reply: key=What's Going On - value=546 >>> Time is: 17:20:21
+File saved successfully >>> Time is: 17:20:21
+Received reply: key=Hey Jude - value=552 >>> Time is: 17:20:21
+Received reply: key=Hey Jude - value=552 >>> Time is: 17:20:21
+Received reply: key=Hey Jude - value=552 >>> Time is: 17:20:21
+File saved successfully >>> Time is: 17:20:21
+Received reply: key=Hey Jude - value=555 >>> Time is: 17:20:21
+Received reply: key=Respect - value=554 >>> Time is: 17:20:21
+Received reply: key=What's Going On - value=546 >>> Time is: 17:20:21
+Received reply: key=Hey Jude - value=555 >>> Time is: 17:20:21
+File saved successfully >>> Time is: 17:20:21
+Received reply: key=Hey Jude - value=556 >>> Time is: 17:20:21
+Received reply: key=What's Going On - value=546 >>> Time is: 17:20:21
+File saved successfully >>> Time is: 17:20:21
+Received reply: key=Hey Jude - value=557 >>> Time is: 17:20:21
+Received reply: key=Hey Jude - value=557 >>> Time is: 17:20:21
+Received reply: key=Respect - value=554 >>> Time is: 17:20:21
+File saved successfully >>> Time is: 17:20:21
+Received reply: key=What's Going On - value=546 >>> Time is: 17:20:21
+Received reply: key=Hey Jude - value=558 >>> Time is: 17:20:21
+Received reply: key=Hey Jude - value=558 >>> Time is: 17:20:21
+Received reply: key=Respect - value=554 >>> Time is: 17:20:22
+File saved successfully >>> Time is: 17:20:22
+Received reply: key=Hey Jude - value=558 >>> Time is: 17:20:22
+Received reply: key=Respect - value=559 >>> Time is: 17:20:22
+Received reply: key=Hey Jude - value=558 >>> Time is: 17:20:22
+Received reply: key=Hey Jude - value=558 >>> Time is: 17:20:22
+File saved successfully >>> Time is: 17:20:22
+Received reply: key=Respect - value=560 >>> Time is: 17:20:22
+Received reply: key=Hey Jude - value=558 >>> Time is: 17:20:22
+Received reply: key=What's Going On - value=546 >>> Time is: 17:20:22
+Received reply: key=What's Going On - value=546 >>> Time is: 17:20:22
+File saved successfully >>> Time is: 17:20:22
+Received reply: key=What's Going On - value=546 >>> Time is: 17:20:22
+Received reply: key=Respect - value=560 >>> Time is: 17:20:22
+File saved successfully >>> Time is: 17:20:22
+Received reply: key=Hey Jude - value=561 >>> Time is: 17:20:22
+Received reply: key=Hey Jude - value=561 >>> Time is: 17:20:22
+Received reply: key=What's Going On - value=562 >>> Time is: 17:20:22
+File saved successfully >>> Time is: 17:20:22
+Received reply: key=Hey Jude - value=561 >>> Time is: 17:20:22
+Received reply: key=Hey Jude - value=561 >>> Time is: 17:20:22
+Received reply: key=Respect - value=560 >>> Time is: 17:20:22
+Received reply: key=Hey Jude - value=561 >>> Time is: 17:20:22
+File saved successfully >>> Time is: 17:20:22
+Received reply: key=Hey Jude - value=561 >>> Time is: 17:20:22
+Received reply: key=What's Going On - value=564 >>> Time is: 17:20:22
+Received reply: key=Respect - value=560 >>> Time is: 17:20:23
+File saved successfully >>> Time is: 17:20:23
+Received reply: key=Respect - value=560 >>> Time is: 17:20:23
+Received reply: key=Hey Jude - value=565 >>> Time is: 17:20:23
+Received reply: key=Respect - value=560 >>> Time is: 17:20:23
+File saved successfully >>> Time is: 17:20:23
+Received reply: key=Hey Jude - value=565 >>> Time is: 17:20:23
+Received reply: key=What's Going On - value=564 >>> Time is: 17:20:23
+Received reply: key=Respect - value=566 >>> Time is: 17:20:23
+Received reply: key=What's Going On - value=564 >>> Time is: 17:20:23
+File saved successfully >>> Time is: 17:20:23
+Received reply: key=Respect - value=567 >>> Time is: 17:20:23
+Received reply: key=Hey Jude - value=565 >>> Time is: 17:20:23
+Received reply: key=Hey Jude - value=565 >>> Time is: 17:20:23
+File saved successfully >>> Time is: 17:20:23
+Received reply: key=Hey Jude - value=568 >>> Time is: 17:20:23
+Received reply: key=Respect - value=567 >>> Time is: 17:20:23
+Received reply: key=Respect - value=567 >>> Time is: 17:20:23
+Received reply: key=Respect - value=567 >>> Time is: 17:20:23
+File saved successfully >>> Time is: 17:20:23
+Received reply: key=Hey Jude - value=568 >>> Time is: 17:20:23
+Received reply: key=Hey Jude - value=568 >>> Time is: 17:20:23
+Received reply: key=Hey Jude - value=568 >>> Time is: 17:20:23
+Received reply: key=Hey Jude - value=568 >>> Time is: 17:20:24
+File saved successfully >>> Time is: 17:20:24
+Received reply: key=Hey Jude - value=570 >>> Time is: 17:20:24
+Received reply: key=Hey Jude - value=570 >>> Time is: 17:20:24
+Received reply: key=What's Going On - value=569 >>> Time is: 17:20:24
+Received reply: key=Respect - value=567 >>> Time is: 17:20:24
+Received reply: key=Hey Jude - value=570 >>> Time is: 17:20:24
+Received reply: key=What's Going On - value=569 >>> Time is: 17:20:24
+Received reply: key=Hey Jude - value=570 >>> Time is: 17:20:24
+File saved successfully >>> Time is: 17:20:24
+Received reply: key=What's Going On - value=569 >>> Time is: 17:20:24
+Received reply: key=What's Going On - value=569 >>> Time is: 17:20:24
+Received reply: key=What's Going On - value=569 >>> Time is: 17:20:24
+Received reply: key=What's Going On - value=569 >>> Time is: 17:20:24
+File saved successfully >>> Time is: 17:20:24
+Received reply: key=Hey Jude - value=573 >>> Time is: 17:20:24
+Received reply: key=Hey Jude - value=573 >>> Time is: 17:20:24
+Received reply: key=Hey Jude - value=573 >>> Time is: 17:20:24
+Received reply: key=Hey Jude - value=573 >>> Time is: 17:20:24
+File saved successfully >>> Time is: 17:20:24
+Received reply: key=Hey Jude - value=573 >>> Time is: 17:20:24
+Received reply: key=Respect - value=567 >>> Time is: 17:20:24
+Received reply: key=Respect - value=567 >>> Time is: 17:20:24
+Received reply: key=Hey Jude - value=573 >>> Time is: 17:20:24
+Received reply: key=Hey Jude - value=573 >>> Time is: 17:20:24
+Received reply: key=Hey Jude - value=573 >>> Time is: 17:20:24
+File saved successfully >>> Time is: 17:20:24
+Received reply: key=Respect - value=567 >>> Time is: 17:20:25
+Received reply: key=Hey Jude - value=576 >>> Time is: 17:20:25
+Received reply: key=Hey Jude - value=576 >>> Time is: 17:20:25
+Received reply: key=What's Going On - value=574 >>> Time is: 17:20:25
+Received reply: key=Respect - value=567 >>> Time is: 17:20:25
+Received reply: key=What's Going On - value=574 >>> Time is: 17:20:25
+Received reply: key=Hey Jude - value=576 >>> Time is: 17:20:25
+Received reply: key=Hey Jude - value=576 >>> Time is: 17:20:25
+Received reply: key=What's Going On - value=574 >>> Time is: 17:20:25
+File saved successfully >>> Time is: 17:20:25
+Received reply: key=Hey Jude - value=579 >>> Time is: 17:20:25
+Received reply: key=What's Going On - value=574 >>> Time is: 17:20:25
+Received reply: key=What's Going On - value=574 >>> Time is: 17:20:25
+Received reply: key=Hey Jude - value=579 >>> Time is: 17:20:25
+File saved successfully >>> Time is: 17:20:25
+Received reply: key=Respect - value=567 >>> Time is: 17:20:25
+Received reply: key=What's Going On - value=574 >>> Time is: 17:20:25
+File saved successfully >>> Time is: 17:20:25
+Received reply: key=Respect - value=567 >>> Time is: 17:20:25
+Received reply: key=Hey Jude - value=581 >>> Time is: 17:20:25
+Received reply: key=What's Going On - value=574 >>> Time is: 17:20:25
+Received reply: key=Hey Jude - value=581 >>> Time is: 17:20:25
+Received reply: key=Respect - value=567 >>> Time is: 17:20:25
+Received reply: key=Respect - value=567 >>> Time is: 17:20:26
+Received reply: key=Hey Jude - value=581 >>> Time is: 17:20:26
+Received reply: key=Hey Jude - value=581 >>> Time is: 17:20:26
+Received reply: key=Hey Jude - value=581 >>> Time is: 17:20:26
+Received reply: key=Hey Jude - value=581 >>> Time is: 17:20:26
+Received reply: key=Hey Jude - value=581 >>> Time is: 17:20:26
+File saved successfully >>> Time is: 17:20:26
+Received reply: key=Hey Jude - value=581 >>> Time is: 17:20:26
+Received reply: key=Hey Jude - value=581 >>> Time is: 17:20:26
+Received reply: key=Hey Jude - value=581 >>> Time is: 17:20:26
+Received reply: key=Respect - value=584 >>> Time is: 17:20:26
+Received reply: key=What's Going On - value=574 >>> Time is: 17:20:26
+Received reply: key=Respect - value=584 >>> Time is: 17:20:26
+File saved successfully >>> Time is: 17:20:26
+Received reply: key=Hey Jude - value=586 >>> Time is: 17:20:26
+Received reply: key=Hey Jude - value=586 >>> Time is: 17:20:26
+Received reply: key=Hey Jude - value=586 >>> Time is: 17:20:26
+File saved successfully >>> Time is: 17:20:26
+Received reply: key=Hey Jude - value=586 >>> Time is: 17:20:26
+Received reply: key=Hey Jude - value=586 >>> Time is: 17:20:26
+Received reply: key=Hey Jude - value=586 >>> Time is: 17:20:26
+Received reply: key=Hey Jude - value=586 >>> Time is: 17:20:26
+File saved successfully >>> Time is: 17:20:27
+Received reply: key=Respect - value=587 >>> Time is: 17:20:27
+Received reply: key=Hey Jude - value=588 >>> Time is: 17:20:27
+Received reply: key=Hey Jude - value=588 >>> Time is: 17:20:27
+File saved successfully >>> Time is: 17:20:27
+Received reply: key=What's Going On - value=574 >>> Time is: 17:20:27
+Received reply: key=Hey Jude - value=588 >>> Time is: 17:20:27
+Received reply: key=What's Going On - value=574 >>> Time is: 17:20:27
+File saved successfully >>> Time is: 17:20:27
+Received reply: key=Respect - value=589 >>> Time is: 17:20:27
+Received reply: key=Respect - value=589 >>> Time is: 17:20:27
+Received reply: key=Hey Jude - value=588 >>> Time is: 17:20:27
+File saved successfully >>> Time is: 17:20:27
+Received reply: key=Hey Jude - value=591 >>> Time is: 17:20:27
+Received reply: key=Hey Jude - value=591 >>> Time is: 17:20:27
+File saved successfully >>> Time is: 17:20:27
+Received reply: key=Respect - value=589 >>> Time is: 17:20:27
+Received reply: key=Respect - value=589 >>> Time is: 17:20:27
+Received reply: key=Hey Jude - value=591 >>> Time is: 17:20:27
+Received reply: key=Hey Jude - value=591 >>> Time is: 17:20:27
+Received reply: key=Hey Jude - value=591 >>> Time is: 17:20:28
+File saved successfully >>> Time is: 17:20:28
+Received reply: key=What's Going On - value=592 >>> Time is: 17:20:28
+Received reply: key=Hey Jude - value=594 >>> Time is: 17:20:28
+Received reply: key=Hey Jude - value=594 >>> Time is: 17:20:28
+File saved successfully >>> Time is: 17:20:28
+Received reply: key=Hey Jude - value=595 >>> Time is: 17:20:28
+Received reply: key=Respect - value=589 >>> Time is: 17:20:28
+Received reply: key=Hey Jude - value=595 >>> Time is: 17:20:28
+File saved successfully >>> Time is: 17:20:28
+Received reply: key=Hey Jude - value=596 >>> Time is: 17:20:28
+Received reply: key=Hey Jude - value=596 >>> Time is: 17:20:28
+Received reply: key=What's Going On - value=592 >>> Time is: 17:20:28
+File saved successfully >>> Time is: 17:20:28
+Received reply: key=Hey Jude - value=597 >>> Time is: 17:20:28
+Received reply: key=What's Going On - value=592 >>> Time is: 17:20:28
+Received reply: key=Hey Jude - value=597 >>> Time is: 17:20:28
+File saved successfully >>> Time is: 17:20:28
+Received reply: key=Hey Jude - value=598 >>> Time is: 17:20:28
+Received reply: key=What's Going On - value=592 >>> Time is: 17:20:28
+Received reply: key=Respect - value=589 >>> Time is: 17:20:28
+Received reply: key=Hey Jude - value=598 >>> Time is: 17:20:28
+Received reply: key=Respect - value=589 >>> Time is: 17:20:28
+Received reply: key=What's Going On - value=592 >>> Time is: 17:20:28
+Received reply: key=Respect - value=589 >>> Time is: 17:20:28
+Received reply: key=Hey Jude - value=598 >>> Time is: 17:20:29
+Received reply: key=Hey Jude - value=598 >>> Time is: 17:20:29
+Received reply: key=Respect - value=589 >>> Time is: 17:20:29
